@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+yfinance
+jupyterlab
+ipykernel
+
+python -m pip install -r requirements.txt
